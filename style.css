@@ -1,5 +1,10 @@
-pre {
+.codebox {
     width: 96px;
     height: 27px;
     background-color: #ffb6c1;
+}
+
+.html-style-text {
+    font-size: 24px;
+    font-weight: bold;
 }

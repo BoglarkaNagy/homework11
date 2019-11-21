@@ -18,3 +18,7 @@
     font-weight: bold;
     text-decoration: underline;
 }
+
+strong {
+    background-color: #ffb6c1;
+}

@@ -1,7 +1,15 @@
+p {
+    width: 217px;
+    height: 405px;
+    font-family: RobotoSlab;
+    font-size: 18px;
+}
+
 .codebox {
     width: 96px;
     height: 27px;
     background-color: #ffb6c1;
+    font-family: OpenSans;
 }
 
 .html-style-text {
